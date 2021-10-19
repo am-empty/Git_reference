@@ -1,3 +1,3 @@
 Started learning git....
 Commited my first demo-project.
-Making changes to see the effects of stash.
+Confirmed stash effect and deleted.
